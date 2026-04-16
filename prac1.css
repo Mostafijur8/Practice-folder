@@ -1,7 +1,9 @@
 .container {
     background-color: olivedrab;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
+    flex-wrap: wrap;
+
 
 
 
@@ -12,5 +14,6 @@
     width: 140px;
     height: 140px;
     border: 3px solid;
+
 
 }
